@@ -12,7 +12,10 @@ export default function HomeScreen() {
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea}>
         <ThemedView style={styles.heroSection}>
-          <AnimatedIcon />
+          
+          <image source={require('@../componentsjs/creatures_of_sonaria.png')}
+
+
           <ThemedText type="title" style={styles.title}>
             Creatures of sonaria
           </ThemedText>
