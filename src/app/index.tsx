@@ -13,9 +13,7 @@ export default function HomeScreen() {
       <SafeAreaView style={styles.safeArea}>
         <ThemedView style={styles.heroSection}>
           
-          <image source={require('@../componentsjs/creatures_of_sonaria.png')}
-
-
+          <image>https://www.pockettactics.com/wp-content/sites/pockettactics/2023/09/creatures-of-sonaria-codes-1.jpg</image>
           <ThemedText type="title" style={styles.title}>
             Creatures of sonaria
           </ThemedText>
